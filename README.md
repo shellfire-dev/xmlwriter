@@ -2,6 +2,10 @@
 
 This module provides a simple framework for writing XML to standard out in a [shellfire] application.
 
+## Compatibility
+
+* Tag [`release_2015.0117.1750-1`](https://github.com/shellfire-dev/xmlwriter/releases/tag/release_2015.0117.1750-1) is compatible with [shellfire] release [`release_2015.0117.1750-1`](https://github.com/shellfire-dev/shellfire/releases/tag/release_2015.0117.1750-1).
+
 ## Overview
 
 The functions are trivial to use. For example, to create the following XML (without line feeds, in reality):-
