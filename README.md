@@ -29,7 +29,7 @@ Use the code:-
 xmlwriter_declaration '1.0' 'UTF-8' 'no'
 xmlwriter_dtd comps "-//CentOS//DTD Comps info//EN"
 xmlwriter_open comps
-	xmlwriter_open group project sw<>ddle
+	xmlwriter_open group project 'sw<>ddle'
 		xmlwriter_leaf id "groupId"
 		xmlwriter_leaf name "groupName"
 		xmlwriter_leaf description "All available packages for 'groupName'"
